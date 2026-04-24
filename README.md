@@ -125,6 +125,8 @@ blog/
 | Have automation, want strategy | [03 — Expert](./blog/03-expert/README.md) |
 | Want to impact the whole team | [04 — Ultimate](./blog/04-ultimate/README.md) |
 | Just need a CI/CD setup | [CI/CD Tools Overview](./blog/02-advanced/ci-tools/README.md) |
+| Senior tester aiming for management | [05 — Manager Topics](./blog/05-manager-topics/README.md) |
+| New or aspiring Test Manager | [First 90 Days](./blog/05-manager-topics/phase-1-foundation/04-first-90-days.md) |
 
 ---
 
