@@ -128,6 +128,47 @@ blog/
 
 ---
 
+## 05 — From Senior Tester to Expert Test Manager
+
+> *The AI-era guide to becoming an expert Test Manager — phase by phase, skill by skill.*
+
+| Phase | Files | Focus |
+|---|---|---|
+| [Section Overview](./blog/05-manager-topics/README.md) | Index | Full guide overview, why AI changes management |
+| **Phase 1: Foundation** | | |
+| [README](./blog/05-manager-topics/phase-1-foundation/README.md) | Index | What to build first (3–6 months) |
+| [01 — Mindset Shift](./blog/05-manager-topics/phase-1-foundation/01-mindset-shift.md) | Foundation | From executor to leader: 5 traps, diagnostic quiz, AI habits |
+| [02 — Skills Inventory](./blog/05-manager-topics/phase-1-foundation/02-skills-inventory.md) | Foundation | Skills matrix, 90-day plan, what AI replaces vs. creates |
+| [03 — Daily Practices](./blog/05-manager-topics/phase-1-foundation/03-daily-practices.md) | Foundation | Morning ritual, 5 daily Zen habits, weekly & monthly cadence |
+| [04 — First 90 Days](./blog/05-manager-topics/phase-1-foundation/04-first-90-days.md) | Foundation | Day-by-day playbook with AI at every step |
+| **Phase 2: People Leadership** | | |
+| [README](./blog/05-manager-topics/phase-2-people-leadership/README.md) | Index | Managing humans in the AI era |
+| [01 — Running 1-on-1s](./blog/05-manager-topics/phase-2-people-leadership/01-running-1on1s.md) | People | AI-prepped 1-on-1s, feedback models, career conversations |
+| [02 — Hiring QA Engineers](./blog/05-manager-topics/phase-2-people-leadership/02-hiring-qa-engineers.md) | People | Hiring for AI fluency, JD generation, interview question bank |
+| [03 — Coaching & Growth](./blog/05-manager-topics/phase-2-people-leadership/03-coaching-and-growth.md) | People | IDPs, AI-era career ladder, coaching resistant team members |
+| [04 — Team Performance](./blog/05-manager-topics/phase-2-people-leadership/04-team-performance.md) | People | Performance reviews, underperformance, psychological safety |
+| **Phase 3: Strategy & Process** | | |
+| [README](./blog/05-manager-topics/phase-3-strategy-and-process/README.md) | Index | Think strategically, design processes that scale |
+| [01 — Building QA Strategy](./blog/05-manager-topics/phase-3-strategy-and-process/01-building-qa-strategy.md) | Strategy | 5-component AI-era QA strategy, one-pager template |
+| [02 — Process Design](./blog/05-manager-topics/phase-3-strategy-and-process/02-process-design.md) | Strategy | AI-accelerated intake → planning → execution → retro |
+| [03 — Metrics for Managers](./blog/05-manager-topics/phase-3-strategy-and-process/03-metrics-for-managers.md) | Strategy | 20 metrics with formulas + new AI-specific KPIs |
+| [04 — Roadmap & Planning](./blog/05-manager-topics/phase-3-strategy-and-process/04-roadmap-and-planning.md) | Strategy | OKRs, quarterly ritual, capacity planning with AI |
+| [05 — AI Tool Strategy](./blog/05-manager-topics/phase-3-strategy-and-process/05-ai-tool-strategy.md) | Strategy | Tool landscape, 8-criteria evaluation, adoption framework |
+| **Phase 4: Stakeholder Leadership** | | |
+| [README](./blog/05-manager-topics/phase-4-stakeholder-leadership/README.md) | Index | Influence beyond your team |
+| [01 — Managing Up](./blog/05-manager-topics/phase-4-stakeholder-leadership/01-managing-up.md) | Stakeholders | Aligning with executives, escalation, building credibility |
+| [02 — Cross-Functional Influence](./blog/05-manager-topics/phase-4-stakeholder-leadership/02-cross-functional-influence.md) | Stakeholders | Lead quality across teams you don't manage |
+| [03 — Executive Reporting](./blog/05-manager-topics/phase-4-stakeholder-leadership/03-executive-reporting.md) | Stakeholders | Exec dashboards, storytelling with data, bad news delivery |
+| [04 — Release Governance](./blog/05-manager-topics/phase-4-stakeholder-leadership/04-release-governance.md) | Stakeholders | Go/No-Go ownership, scorecard, post-mortems |
+| **Phase 5: Organizational Impact** | | |
+| [README](./blog/05-manager-topics/phase-5-organizational-impact/README.md) | Index | The pinnacle: quality at organizational scale |
+| [01 — AI-First Quality Culture](./blog/05-manager-topics/phase-5-organizational-impact/01-ai-first-quality-culture.md) | Impact | 5 cultural shifts, change playbook, measuring culture |
+| [02 — Tooling & Infrastructure](./blog/05-manager-topics/phase-5-organizational-impact/02-tooling-and-infrastructure.md) | Impact | Build vs. Buy, tool governance, vendor management |
+| [03 — QA Maturity Model](./blog/05-manager-topics/phase-5-organizational-impact/03-qa-maturity-model.md) | Impact | 5-level AI-era maturity model with self-assessment |
+| [04 — The Expert Manager Playbook](./blog/05-manager-topics/phase-5-organizational-impact/04-the-expert-manager-playbook.md) | Impact | Week-in-the-life, career trajectory, graduation checklist |
+
+---
+
 ## Also in This Repository
 
 - [QA Automation Conversion Guide](./QA-AUTOMATION-CONVERSION-GUIDE.md) — Technical reference for converting manual tests to Playwright using POM + SOLID architecture
